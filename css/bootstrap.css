@@ -515,6 +515,14 @@ mark,
   max-width: 100%;
 }
 
+.project {
+  border-radius: 10px;
+}
+
+.center {
+  margin: 0 auto !important;
+}
+
 .img-thumbnail {
   padding: 0.25rem;
   background-color: #fff;
